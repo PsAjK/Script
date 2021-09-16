@@ -15,7 +15,7 @@ end)
     game.Players.LocalPlayer.Character.Humanoid.Health = s
     print("Health Added")
 end)
-CreditsSection:NewButton("Code", "Copy all code", function()
+PlayerSection:NewButton("Code", "Copy all code", function()
     setclipboard("500likes, tedy, fmakju, puzonik, release, roksek, roblerom, senior")
         print("Copy Completed")
 end)
